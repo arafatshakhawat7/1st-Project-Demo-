@@ -1,2 +1,2 @@
 # 1st-Project-Demo-
-Welcome to 1st Project Demo 🎉 This repository is created as a starting point to practice Git, GitHub, and project documentation. It serves as a foundation for learning version control, collaboration, and open-source contribution.
+A beginner-friendly project to calculate Simple Interest (SI) based on user input values for principal, rate of interest, and time. This project is designed to practice Python basics, Git/GitHub workflow, and documentation.
